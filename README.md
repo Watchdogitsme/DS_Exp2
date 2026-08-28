@@ -1,0 +1,1 @@
+The Database used has been Submitted to the Teaching Faculty if anyone wants it here is the link to it [here](https://www.kaggle.com/datasets/sanaarizvi/india-heatwave-and-power-stress-dataset-20142024)
